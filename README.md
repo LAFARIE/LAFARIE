@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Farhad Lafarie<br>I am a passionate and self-motivated developer from Srilanka<br>I am currently learning web frameworks like ReactJS and Server Automation tools<br>You can ask me about JAVA and Automations stuff and many more<br><br><br>Now I have foucing on devops, hope to share more stuff after learning something new<br><br>Reach me : farhadlafarie@gmail.com<br><br>Portfolio : FarhadLafarie.com<br><br>
+Hi 👋, I'm Farhad Lafarie<br>I am a passionate and self-motivated developer from Srilanka<br>I am currently learning web frameworks like ReactJS and Server Automation tools<br>You can ask me about JAVA and Automations stuff and many more<br><br><br>Now I have foucing on devops, hope to share more stuff after learning something new<br><br>Reach me : farhadlafarie@gmail.com<br><br>Portfolio : https://farhad-lafarie.vercel.app<br><br>
 
 
 ## 🌐 Socials:
